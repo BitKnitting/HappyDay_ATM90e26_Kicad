@@ -1,0 +1,57 @@
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+#*.zip
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+# my files            #
+#######################
+#Don’t include these files
+ATM90_Circuit.bak
+BoMforOctopart.csv
+BoMparts.csv
+HappyDay_ATM90e26_Kicad-cache.bak
+HappyDay_ATM90e26_Kicad-cache.bck
+HappyDay_ATM90e26_Kicad-cache.dcm
+HappyDay_ATM90e26_Kicad-cache.lib
+HappyDay_ATM90e26_Kicad-rescue.lib
+HappyDay_ATM90e26_Kicad.bak
+HappyDay_ATM90e26_Kicad.csv
+HappyDay_ATM90e26_Kicad.kicad_pcb-bak
+HappyDay_ATM90e26_Kicad.xml
+JBParts.csv
+MadeBOMfile.csv
+changeRefTextSize.py
+inventory_Thu_Jan__4_09-42-50_2018.csv
+list.txt
