@@ -38,6 +38,7 @@ Thumbs.db
 # my files            #
 #######################
 #Don’t include these files
+_autosave-HappyDay_ATM90e26_Kicad.kicad_pcb
 ATM90_Circuit.bak
 BoMforOctopart.csv
 BoMparts.csv
