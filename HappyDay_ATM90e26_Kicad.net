@@ -1,7 +1,7 @@
 (export (version D)
   (design
-    (source /Users/margaret/Documents/EnergyMonitoring/HappyDayNeighbors/HappyDay_Energy_PCB/HappyDay_Energy_PCB.sch)
-    (date "Tuesday, December 26, 2017 'AMt' 05:07:32 AM")
+    (source /Users/margaret/Documents/EnergyMonitoring/HappyDay_ATM90e26_Kicad/HappyDay_ATM90e26_Kicad.sch)
+    (date "Thursday, February 08, 2018 'AMt' 10:18:50 AM")
     (tool "Eeschema 4.0.7")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -9,7 +9,7 @@
         (company)
         (rev)
         (date)
-        (source HappyDay_Energy_PCB.sch)
+        (source HappyDay_ATM90e26_Kicad.sch)
         (comment (number 1) (value ""))
         (comment (number 2) (value ""))
         (comment (number 3) (value ""))
@@ -142,7 +142,7 @@
       (value .1u)
       (footprint Capacitors_SMD:C_0805)
       (fields
-        (field (name PN) GRM32DR72H104KW10L))
+        (field (name Reference) C4))
       (libsource (lib device) (part C))
       (sheetpath (names /) (tstamps /))
       (tstamp 5A1C9B61))
@@ -244,7 +244,7 @@
       (tstamp 5A215440))
     (comp (ref TP1)
       (value 3.3V_A)
-      (footprint Connectors_TestPoints:Test_Point_Pad_d2.0mm)
+      (footprint Connectors_TestPoints:Test_Point_Loop_D2.54mm_Drill1.5mm_Beaded)
       (fields
         (field (name PN) X))
       (libsource (lib device) (part TEST))
@@ -252,7 +252,7 @@
       (tstamp 5A22A137))
     (comp (ref TP2)
       (value GNDA)
-      (footprint Connectors_TestPoints:Test_Point_Pad_d2.0mm)
+      (footprint Connectors_TestPoints:Test_Point_Loop_D2.54mm_Drill1.5mm_Beaded)
       (fields
         (field (name PN) X))
       (libsource (lib device) (part TEST))
@@ -260,7 +260,7 @@
       (tstamp 5A22A5EB))
     (comp (ref TP3)
       (value LO_SAMP)
-      (footprint Connectors_TestPoints:Test_Point_Pad_d2.0mm)
+      (footprint Connectors_TestPoints:Test_Point_Loop_D2.54mm_Drill1.5mm_Beaded)
       (fields
         (field (name PN) X))
       (libsource (lib device) (part TEST))
@@ -268,7 +268,7 @@
       (tstamp 5A22AA32))
     (comp (ref TP4)
       (value L1_SAMP)
-      (footprint Connectors_TestPoints:Test_Point_Pad_d2.0mm)
+      (footprint Connectors_TestPoints:Test_Point_Loop_D2.54mm_Drill1.5mm_Beaded)
       (fields
         (field (name PN) x))
       (libsource (lib device) (part TEST))
@@ -276,7 +276,7 @@
       (tstamp 5A22AFE3))
     (comp (ref TP6)
       (value I1P_0)
-      (footprint Connectors_TestPoints:Test_Point_Pad_d2.0mm)
+      (footprint Connectors_TestPoints:Test_Point_Loop_D2.54mm_Drill1.5mm_Beaded)
       (fields
         (field (name PN) x))
       (libsource (lib device) (part TEST))
@@ -284,7 +284,7 @@
       (tstamp 5A22B653))
     (comp (ref TP7)
       (value I1N_0)
-      (footprint Connectors_TestPoints:Test_Point_Pad_d2.0mm)
+      (footprint Connectors_TestPoints:Test_Point_Loop_D2.54mm_Drill1.5mm_Beaded)
       (fields
         (field (name PN) x))
       (libsource (lib device) (part TEST))
@@ -292,7 +292,7 @@
       (tstamp 5A22B7E2))
     (comp (ref TP8)
       (value I1P_1)
-      (footprint Connectors_TestPoints:Test_Point_Pad_d2.0mm)
+      (footprint Connectors_TestPoints:Test_Point_Loop_D2.54mm_Drill1.5mm_Beaded)
       (fields
         (field (name PN) x))
       (libsource (lib device) (part TEST))
@@ -300,7 +300,7 @@
       (tstamp 5A22E009))
     (comp (ref TP9)
       (value I1N_1)
-      (footprint Connectors_TestPoints:Test_Point_Pad_d2.0mm)
+      (footprint Connectors_TestPoints:Test_Point_Loop_D2.54mm_Drill1.5mm_Beaded)
       (fields
         (field (name PN) x))
       (libsource (lib device) (part TEST))
@@ -687,7 +687,7 @@
       (footprint HappyDayEnergyMonitor:SSOP-28_5.3x10.2mm_Pitch0.65mm)
       (fields
         (field (name PN) ATM90E26-YU-B))
-      (libsource (lib HappyDay_Energy_PCB-rescue) (part ATM90E26_ATM90E26-RESCUE-HappyDay_Energy_PCB))
+      (libsource (lib HappyDay_ATM90e26_Kicad-cache) (part ATM90E26_ATM90E26-RESCUE-HappyDay_Energy_PCB))
       (sheetpath (names /ATM90_Circuit/) (tstamps /5A1041CA/))
       (tstamp 5A220C81))
     (comp (ref M1)
@@ -695,7 +695,7 @@
       (footprint HappyDayEnergyMonitor:SSOP-28_5.3x10.2mm_Pitch0.65mm)
       (fields
         (field (name PN) ATM90E26-YU-B))
-      (libsource (lib HappyDay_Energy_PCB-rescue) (part ATM90E26_ATM90E26-RESCUE-HappyDay_Energy_PCB))
+      (libsource (lib HappyDay_ATM90e26_Kicad-cache) (part ATM90E26_ATM90E26-RESCUE-HappyDay_Energy_PCB))
       (sheetpath (names /ATM90_Circuit/) (tstamps /5A1041CA/))
       (tstamp 5A2210DD))
     (comp (ref U3)
@@ -715,7 +715,7 @@
       (sheetpath (names /ATM90_Circuit/) (tstamps /5A1041CA/))
       (tstamp 5A2476CC)))
   (libparts
-    (libpart (lib HappyDay_Energy_PCB-rescue) (part ATM90E26_ATM90E26-RESCUE-HappyDay_Energy_PCB)
+    (libpart (lib HappyDay_ATM90e26_Kicad-cache) (part ATM90E26_ATM90E26-RESCUE-HappyDay_Energy_PCB)
       (footprints
         (fp *ATM90E26_SSOP-28*))
       (fields
@@ -971,18 +971,18 @@
         (pin (num 3) (name OUT-) (type power_out))
         (pin (num 4) (name OUT+) (type power_out)))))
   (libraries
-    (library (logical HappyDay_Energy_PCB-rescue)
-      (uri /Users/margaret/Documents/EnergyMonitoring/HappyDayNeighbors/HappyDay_Energy_PCB/HappyDay_Energy_PCB-rescue.lib))
+    (library (logical si865)
+      (uri /Users/margaret/Documents/EnergyMonitoring/HappyDay_ATM90e26_Kicad/libs/si865.lib))
+    (library (logical dc-dc)
+      (uri /Users/margaret/Documents/EnergyMonitoring/HappyDay_ATM90e26_Kicad/libs/dc-dc.lib))
+    (library (logical atm90e26)
+      (uri /Users/margaret/Documents/EnergyMonitoring/HappyDay_ATM90e26_Kicad/libs/atm90e26.lib))
     (library (logical device)
       (uri "/Library/Application Support/kicad/library/device.lib"))
+    (library (logical HappyDay_ATM90e26_Kicad-cache)
+      (uri /Users/margaret/Documents/EnergyMonitoring/HappyDay_ATM90e26_Kicad/HappyDay_ATM90e26_Kicad-cache.lib))
     (library (logical conn)
-      (uri "/Library/Application Support/kicad/library/conn.lib"))
-    (library (logical dc-dc)
-      (uri /Users/margaret/Documents/EnergyMonitoring/HappyDayNeighbors/HappyDay_Energy_PCB/libs/dc-dc.lib))
-    (library (logical si865)
-      (uri /Users/margaret/Documents/EnergyMonitoring/HappyDayNeighbors/HappyDay_Energy_PCB/libs/si865.lib))
-    (library (logical atm90e26)
-      (uri /Users/margaret/Documents/EnergyMonitoring/HappyDayNeighbors/HappyDay_Energy_PCB/libs/atm90e26.lib)))
+      (uri "/Library/Application Support/kicad/library/conn.lib")))
   (nets
     (net (code 1) (name "Net-(J3-Pad3)")
       (node (ref J3) (pin 3)))

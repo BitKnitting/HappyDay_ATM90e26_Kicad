@@ -1,5 +1,4 @@
 EESchema Schematic File Version 2
-LIBS:HappyDay_Energy_PCB-rescue
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -34,7 +33,7 @@ LIBS:atm90e26
 LIBS:dc-dc
 LIBS:si865
 LIBS:MiscellaneousDevices
-LIBS:HappyDay_Energy_PCB-cache
+LIBS:HappyDay_ATM90e26_Kicad-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
@@ -665,7 +664,7 @@ U 1 1 5A22A137
 P 6250 3400
 F 0 "TP1" H 6250 3700 50  0000 C BNN
 F 1 "3.3V_A" H 6250 3650 50  0000 C CNN
-F 2 "Connectors_TestPoints:Test_Point_Pad_d2.0mm" H 6250 3400 50  0001 C CNN
+F 2 "Connectors_TestPoints:Test_Point_Loop_D2.54mm_Drill1.5mm_Beaded" H 6250 3400 50  0001 C CNN
 F 3 "" H 6250 3400 50  0001 C CNN
 F 4 "X" H 6250 3400 60  0001 C CNN "PN"
 	1    6250 3400
@@ -680,7 +679,7 @@ U 1 1 5A22A5EB
 P 6250 3850
 F 0 "TP2" H 6250 4150 50  0000 C BNN
 F 1 "GNDA" H 6250 4100 50  0000 C CNN
-F 2 "Connectors_TestPoints:Test_Point_Pad_d2.0mm" H 6250 3850 50  0001 C CNN
+F 2 "Connectors_TestPoints:Test_Point_Loop_D2.54mm_Drill1.5mm_Beaded" H 6250 3850 50  0001 C CNN
 F 3 "" H 6250 3850 50  0001 C CNN
 F 4 "X" H 6250 3850 60  0001 C CNN "PN"
 	1    6250 3850
@@ -695,7 +694,7 @@ U 1 1 5A22AA32
 P 6250 4250
 F 0 "TP3" H 6250 4550 50  0000 C BNN
 F 1 "LO_SAMP" H 6250 4500 50  0000 C CNN
-F 2 "Connectors_TestPoints:Test_Point_Pad_d2.0mm" H 6250 4250 50  0001 C CNN
+F 2 "Connectors_TestPoints:Test_Point_Loop_D2.54mm_Drill1.5mm_Beaded" H 6250 4250 50  0001 C CNN
 F 3 "" H 6250 4250 50  0001 C CNN
 F 4 "X" H 6250 4250 60  0001 C CNN "PN"
 	1    6250 4250
@@ -710,7 +709,7 @@ U 1 1 5A22AFE3
 P 6250 4650
 F 0 "TP4" H 6250 4950 50  0000 C BNN
 F 1 "L1_SAMP" H 6250 4900 50  0000 C CNN
-F 2 "Connectors_TestPoints:Test_Point_Pad_d2.0mm" H 6250 4650 50  0001 C CNN
+F 2 "Connectors_TestPoints:Test_Point_Loop_D2.54mm_Drill1.5mm_Beaded" H 6250 4650 50  0001 C CNN
 F 3 "" H 6250 4650 50  0001 C CNN
 F 4 "x" H 6250 4650 60  0001 C CNN "PN"
 	1    6250 4650
@@ -725,7 +724,7 @@ U 1 1 5A22B653
 P 6250 5450
 F 0 "TP6" H 6250 5750 50  0000 C BNN
 F 1 "I1P_0" H 6250 5700 50  0000 C CNN
-F 2 "Connectors_TestPoints:Test_Point_Pad_d2.0mm" H 6250 5450 50  0001 C CNN
+F 2 "Connectors_TestPoints:Test_Point_Loop_D2.54mm_Drill1.5mm_Beaded" H 6250 5450 50  0001 C CNN
 F 3 "" H 6250 5450 50  0001 C CNN
 F 4 "x" H 6250 5450 60  0001 C CNN "PN"
 	1    6250 5450
@@ -737,7 +736,7 @@ U 1 1 5A22B7E2
 P 6250 5850
 F 0 "TP7" H 6250 6150 50  0000 C BNN
 F 1 "I1N_0" H 6250 6100 50  0000 C CNN
-F 2 "Connectors_TestPoints:Test_Point_Pad_d2.0mm" H 6250 5850 50  0001 C CNN
+F 2 "Connectors_TestPoints:Test_Point_Loop_D2.54mm_Drill1.5mm_Beaded" H 6250 5850 50  0001 C CNN
 F 3 "" H 6250 5850 50  0001 C CNN
 F 4 "x" H 6250 5850 60  0001 C CNN "PN"
 	1    6250 5850
@@ -757,7 +756,7 @@ U 1 1 5A22E009
 P 6250 6250
 F 0 "TP8" H 6250 6550 50  0000 C BNN
 F 1 "I1P_1" H 6250 6500 50  0000 C CNN
-F 2 "Connectors_TestPoints:Test_Point_Pad_d2.0mm" H 6250 6250 50  0001 C CNN
+F 2 "Connectors_TestPoints:Test_Point_Loop_D2.54mm_Drill1.5mm_Beaded" H 6250 6250 50  0001 C CNN
 F 3 "" H 6250 6250 50  0001 C CNN
 F 4 "x" H 6250 6250 60  0001 C CNN "PN"
 	1    6250 6250
@@ -772,7 +771,7 @@ U 1 1 5A22F1E1
 P 10550 3500
 F 0 "TP9" H 10550 3800 50  0000 C BNN
 F 1 "I1N_1" H 10550 3750 50  0000 C CNN
-F 2 "Connectors_TestPoints:Test_Point_Pad_d2.0mm" H 10550 3500 50  0001 C CNN
+F 2 "Connectors_TestPoints:Test_Point_Loop_D2.54mm_Drill1.5mm_Beaded" H 10550 3500 50  0001 C CNN
 F 3 "" H 10550 3500 50  0001 C CNN
 F 4 "x" H 10550 3500 60  0001 C CNN "PN"
 	1    10550 3500
