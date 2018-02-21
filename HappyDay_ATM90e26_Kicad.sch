@@ -127,9 +127,9 @@ F 4 "C" H 4850 1900 60  0001 C CNN "PN"
 	1    4850 1900
 	1    0    0    -1  
 $EndComp
-Text Notes 1250 650  0    60   ~ 0
-Energy In
-Text Notes 3350 650  0    60   ~ 0
+Text Notes 700  800  0    120  ~ 0
+2 x 120 VAC In
+Text Notes 3350 650  0    100  ~ 0
 Sample Voltage\n
 $Comp
 L Ferrite_Bead_Small L1
@@ -173,7 +173,7 @@ Text GLabel 10100 1750 3    60   Output ~ 0
 3.3V_REG_A
 Text GLabel 9800 1750 3    60   Input ~ 0
 3.3V_MCU
-Text Notes 1400 2700 0    60   ~ 0
+Text Notes 1250 2750 0    120  ~ 0
 Sample Current\n
 $Comp
 L R R1
@@ -221,8 +221,8 @@ Text GLabel 1400 1800 0    60   Output ~ 0
 GNDA
 Text GLabel 8100 1400 2    60   Output ~ 0
 3.3V_MCU
-Text Notes 6400 700  0    60   ~ 0
-120VAC -> +3.3VDC Regulated\n
+Text Notes 5900 750  0    120  ~ 0
+120VAC -> +3.3VDC Power Supply\n
 $Sheet
 S 6500 3200 3750 3250
 U 5A1041CA
@@ -240,7 +240,7 @@ F10 "GNDA" I L 6500 3850 60
 F11 "GND_MCU" I R 10250 4350 60 
 F12 "3.3V_MCU" I R 10250 3900 60 
 $EndSheet
-Text Notes 7200 3700 0    60   ~ 0
+Text Notes 7500 4450 0    120  ~ 0
 Measure and Send
 $Comp
 L R R13
@@ -482,8 +482,6 @@ Wire Wire Line
 	7800 2250 8100 2250
 Wire Wire Line
 	8100 1900 8100 1850
-Wire Notes Line
-	8850 450  8850 3150
 Wire Wire Line
 	8100 2250 8100 2200
 Connection ~ 8050 2250
@@ -983,6 +981,10 @@ F 4 "RAC04-3.3SGB" H 7150 1700 60  0001 C CNN "PN"
 	1    7150 1700
 	1    0    0    -1  
 $EndComp
-Text Notes 9000 700  0    60   ~ 0
-3.3V For ATM isolated from 3.3V for MCU
+Text Notes 8850 1000 0    60   ~ 0
+DC (ATM90E26) - DC (Feather) Isolation
+Wire Bus Line
+	3900 5650 3900 2450
+Text Notes 6850 1050 0    60   ~ 0
+Transformer
 $EndSCHEMATC
