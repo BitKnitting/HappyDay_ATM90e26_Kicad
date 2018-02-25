@@ -220,14 +220,6 @@ Text HLabel 3950 5700 2    60   Input ~ 0
 L0_SAMP
 Text HLabel 3950 5800 2    60   Input ~ 0
 N
-Text GLabel 3500 4900 2    60   Input ~ 0
-CS0_ATM
-Text GLabel 3500 4600 2    60   Input ~ 0
-MOSI_ATM
-Text GLabel 3500 4700 2    60   Output ~ 0
-MISO_ATM
-Text GLabel 3500 4800 2    60   Input ~ 0
-SCLK_ATM
 $Comp
 L GS3 J17
 U 1 1 5A10DFE3
@@ -520,9 +512,9 @@ Connection ~ 2600 4200
 Wire Wire Line
 	2100 4600 1800 4600
 Wire Wire Line
-	1800 4150 1800 4600
+	1800 4600 1800 4150
 Wire Wire Line
-	1350 4150 1800 4150
+	1800 4150 1350 4150
 Wire Wire Line
 	1350 4150 1350 4200
 Connection ~ 1600 4150
@@ -658,9 +650,9 @@ Connection ~ 6650 4350
 Wire Wire Line
 	6150 4750 5850 4750
 Wire Wire Line
-	5850 4300 5850 4750
+	5850 4750 5850 4300
 Wire Wire Line
-	5400 4300 5850 4300
+	5850 4300 5400 4300
 Wire Wire Line
 	5400 4300 5400 4350
 Connection ~ 5650 4300
@@ -924,4 +916,12 @@ Text Label 3500 5100 0    60   ~ 0
 CLKIN_0
 Text Label 3500 5000 0    60   ~ 0
 CLKOUT_0
+Text Label 3500 4600 0    60   ~ 0
+MOSI
+Text Label 3500 4700 0    60   ~ 0
+MISO
+Text Label 3500 4800 0    60   ~ 0
+SCLK
+Text Label 3500 4900 0    60   ~ 0
+CS0
 $EndSCHEMATC
