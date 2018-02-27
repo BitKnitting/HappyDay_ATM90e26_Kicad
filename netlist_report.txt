@@ -1,0 +1,423 @@
+Info: Reading netlist file "/Users/margaret/Documents/EnergyMonitoring/HappyDay_ATM90e26_Kicad/HappyDay_ATM90e26_Kicad.net".
+
+Info: Using references to match components and footprints.
+
+Info: Checking netlist component footprint "C1:/5A119335:Capacitors_SMD:C_0805".
+
+Changing component "C1:/5A119335" pin "1" net name from "L0_SAMP" to "/LO_SAMP".
+
+Info: Checking netlist component footprint "C2:/5A11C44A:Capacitors_SMD:C_0805".
+
+Changing component "C2:/5A11C44A" pin "1" net name from "L1_SAMP" to "/L1_SAMP".
+
+Changing component "C2:/5A11C44A" pin "2" net name from "GNDA" to "Net-(C2-Pad2)".
+
+Info: Checking netlist component footprint "C3:/5A1C99F2:Capacitors_SMD:C_0805".
+
+Changing component "C3:/5A1C99F2" pin "1" net name from "L0" to "/LO".
+
+Info: Checking netlist component footprint "C4:/5A1C9B61:Capacitors_SMD:C_0805".
+
+Changing component "C4:/5A1C9B61" pin "1" net name from "L0" to "/LO".
+
+Info: Checking netlist component footprint "C5:/5A1C9923:Capacitors_SMD:C_0805".
+
+Info: Checking netlist component footprint "C8:/5A1041CA/5A1086D4:Capacitors_SMD:C_0805".
+
+Changing component "C8:/5A1041CA/5A1086D4" pin "2" net name from "+3.3VA" to "+3V3".
+
+Info: Checking netlist component footprint "C9:/5A1041CA/5A106256:Capacitors_SMD:C_0805".
+
+Changing component "C9:/5A1041CA/5A106256" pin "1" net name from "+3.3VA" to "+3V3".
+
+Info: Checking netlist component footprint "C10:/5A1041CA/5A108417:Capacitors_SMD:C_0805".
+
+Info: Checking netlist component footprint "C11:/5A1041CA/5A1061DE:Capacitors_SMD:C_0805".
+
+Changing component "C11:/5A1041CA/5A1061DE" pin "1" net name from "+3.3VA" to "+3V3".
+
+Info: Checking netlist component footprint "C12:/5A1041CA/5A108411:Capacitors_SMD:C_0805".
+
+Info: Checking netlist component footprint "C13:/5A1041CA/5A10B9B0:Capacitors_SMD:C_0805".
+
+Changing component "C13:/5A1041CA/5A10B9B0" value from "27p" to "20p".
+
+Changing component "C13:/5A1041CA/5A10B9B0" pin "1" net name from "CLKOUT_0" to "/ATM90_Circuit/CLKOUT_0".
+
+Info: Checking netlist component footprint "C14:/5A1041CA/5A10B9F6:Capacitors_SMD:C_0805".
+
+Changing component "C14:/5A1041CA/5A10B9F6" value from "27p" to "20p".
+
+Changing component "C14:/5A1041CA/5A10B9F6" pin "1" net name from "CLKIN_0" to "/ATM90_Circuit/CLKIN_0".
+
+Info: Checking netlist component footprint "C15:/5A1041CA/5A10EF1A:Capacitors_SMD:C_0805".
+
+Changing component "C15:/5A1041CA/5A10EF1A" value from "27p" to "20p".
+
+Changing component "C15:/5A1041CA/5A10EF1A" pin "1" net name from "CLKOUT_1" to "/ATM90_Circuit/CLKOUT_1".
+
+Info: Checking netlist component footprint "C16:/5A1041CA/5A10EF20:Capacitors_SMD:C_0805".
+
+Changing component "C16:/5A1041CA/5A10EF20" value from "27p" to "20p".
+
+Changing component "C16:/5A1041CA/5A10EF20" pin "1" net name from "CLKIN_1" to "/ATM90_Circuit/CLKIN_1".
+
+Info: Checking netlist component footprint "C17:/5A1041CA/5A10E04E:Capacitors_SMD:C_0805".
+
+Changing component "C17:/5A1041CA/5A10E04E" pin "2" net name from "+3.3VA" to "+3V3".
+
+Info: Checking netlist component footprint "C18:/5A1041CA/5A10E017:Capacitors_SMD:C_0805".
+
+Changing component "C18:/5A1041CA/5A10E017" pin "1" net name from "+3.3VA" to "+3V3".
+
+Info: Checking netlist component footprint "C19:/5A1041CA/5A10E037:Capacitors_SMD:C_0805".
+
+Changing component "C19:/5A1041CA/5A10E037" pin "2" net name from "Net-(C19-Pad2)" to "GNDD".
+
+Info: Checking netlist component footprint "C20:/5A1041CA/5A10E011:Capacitors_SMD:C_0805".
+
+Changing component "C20:/5A1041CA/5A10E011" pin "1" net name from "+3.3VA" to "+3V3".
+
+Info: Checking netlist component footprint "C21:/5A1041CA/5A10E031:Capacitors_SMD:C_0805".
+
+Changing component "C21:/5A1041CA/5A10E031" pin "2" net name from "Net-(C19-Pad2)" to "GNDD".
+
+Info: Checking netlist component footprint "C22:/5A1041CA/5A2476CC:Capacitors_SMD:C_0805".
+
+Changing component "C22:/5A1041CA/5A2476CC" pin "1" net name from "3.3V_MCU" to "+3V3".
+
+Changing component "C22:/5A1041CA/5A2476CC" pin "2" net name from "GND_MCU" to "GNDD".
+
+Info: Checking netlist component footprint "C23:/5A384271:Capacitors_SMD:C_0805".
+
+Changing component "C23:/5A384271" pin "1" net name from "I1N_0" to "/IP_0".
+
+Info: Checking netlist component footprint "C24:/5A3844CF:Capacitors_SMD:C_0805".
+
+Changing component "C24:/5A3844CF" pin "2" net name from "I1P_0" to "/IN_0".
+
+Info: Checking netlist component footprint "C25:/5A3AEA8B:Capacitors_SMD:C_0805".
+
+Changing component "C25:/5A3AEA8B" pin "1" net name from "I1N_1" to "/IP_1".
+
+Info: Checking netlist component footprint "C26:/5A3AEA94:Capacitors_SMD:C_0805".
+
+Changing component "C26:/5A3AEA94" pin "2" net name from "I1P_1" to "/IN_1".
+
+Info: Checking netlist component footprint "D2:/5A186E2C:Capacitors_SMD:C_1206_HandSoldering".
+
+Changing component "D2:/5A186E2C" pin "2" net name from "3.3V_MCU" to "+3V3".
+
+Info: Checking netlist component footprint "F1:/5A120D00:HappyDayEnergyMonitor:POLYFUSE".
+
+Changing component "F1:/5A120D00" pin "2" net name from "N" to "/N".
+
+Info: Checking netlist component footprint "J1:/5A215440:HappyDayEnergyMonitor:3PinConnector".
+
+Changing component "J1:/5A215440" pin "1" net name from "L0" to "/LO".
+
+Changing component "J1:/5A215440" pin "2" net name from "L1" to "/L1".
+
+Changing component "J1:/5A215440" pin "3" net name from "N" to "/N".
+
+Info: Checking netlist component footprint "J2:/5A92CE47:HappyDayEnergyMonitor:Audio-Jack".
+
+Changing component "J2:/5A2057E2" value from "TRS3.5Female" to "TRS3.5".
+
+Info: Changing component path "J2:/5A2057E2" to "/5A92CE47".
+
+Info: Checking netlist component footprint "J3:/5A92D007:HappyDayEnergyMonitor:Audio-Jack".
+
+Changing component "J3:/5A205D36" value from "TRS3.5Female" to "TRS3.5".
+
+Info: Changing component path "J3:/5A205D36" to "/5A92D007".
+
+Info: Checking netlist component footprint "J10:/5A1041CA/5A10541E:Connectors:GS3".
+
+Changing component "J10:/5A1041CA/5A10541E" pin "3" net name from "+3.3VA" to "+3V3".
+
+Info: Checking netlist component footprint "J11:/5A1041CA/5A105459:Connectors:GS3".
+
+Changing component "J11:/5A1041CA/5A105459" pin "1" net name from "+3.3VA" to "+3V3".
+
+Info: Checking netlist component footprint "J17:/5A1041CA/5A10DFE3:Connectors:GS3".
+
+Changing component "J17:/5A1041CA/5A10DFE3" pin "3" net name from "+3.3VA" to "+3V3".
+
+Info: Checking netlist component footprint "J18:/5A1041CA/5A10DFE9:Connectors:GS3".
+
+Changing component "J18:/5A1041CA/5A10DFE9" pin "1" net name from "+3.3VA" to "+3V3".
+
+Info: Checking netlist component footprint "L1:/5A11C7F8:Capacitors_SMD:C_1206".
+
+Changing component "L1:/5A11C7F8" pin "1" net name from "N" to "/N".
+
+Info: Checking netlist component footprint "M1:/5A1041CA/5A2210DD:HappyDayEnergyMonitor:SSOP-28_5.3x10.2mm_Pitch0.65mm".
+
+Changing component "M1:/5A1041CA/5A2210DD" pin "27" net name from "MOSI_ATM" to "/ATM90_Circuit/MOSI".
+
+Changing component "M1:/5A1041CA/5A2210DD" pin "26" net name from "MISO_ATM" to "/ATM90_Circuit/MISO".
+
+Changing component "M1:/5A1041CA/5A2210DD" pin "25" net name from "SCLK_ATM" to "/ATM90_Circuit/SCLK".
+
+Changing component "M1:/5A1041CA/5A2210DD" pin "24" net name from "CS0_ATM" to "/ATM90_Circuit/CS0".
+
+Changing component "M1:/5A1041CA/5A2210DD" pin "23" net name from "CLKOUT_0" to "/ATM90_Circuit/CLKOUT_0".
+
+Changing component "M1:/5A1041CA/5A2210DD" pin "22" net name from "CLKIN_0" to "/ATM90_Circuit/CLKIN_0".
+
+Changing component "M1:/5A1041CA/5A2210DD" pin "16" net name from "L0_SAMP" to "/LO_SAMP".
+
+Changing component "M1:/5A1041CA/5A2210DD" pin "15" net name from "N" to "GNDA".
+
+Changing component "M1:/5A1041CA/5A2210DD" pin "11" net name from "I1N_0" to "/IN_0".
+
+Changing component "M1:/5A1041CA/5A2210DD" pin "10" net name from "I1P_0" to "/IP_0".
+
+Changing component "M1:/5A1041CA/5A2210DD" pin "5" net name from "+3.3VA" to "+3V3".
+
+Changing component "M1:/5A1041CA/5A2210DD" pin "4" net name from "+3.3VA" to "+3V3".
+
+Changing component "M1:/5A1041CA/5A2210DD" pin "3" net name from "+3.3VA" to "+3V3".
+
+Info: Checking netlist component footprint "M2:/5A1041CA/5A220C81:HappyDayEnergyMonitor:SSOP-28_5.3x10.2mm_Pitch0.65mm".
+
+Changing component "M2:/5A1041CA/5A220C81" pin "27" net name from "MOSI_ATM" to "/ATM90_Circuit/MOSI".
+
+Changing component "M2:/5A1041CA/5A220C81" pin "26" net name from "MISO_ATM" to "/ATM90_Circuit/MISO".
+
+Changing component "M2:/5A1041CA/5A220C81" pin "25" net name from "SCLK_ATM" to "/ATM90_Circuit/SCLK".
+
+Changing component "M2:/5A1041CA/5A220C81" pin "24" net name from "CS1_ATM" to "/ATM90_Circuit/CS1".
+
+Changing component "M2:/5A1041CA/5A220C81" pin "23" net name from "CLKOUT_1" to "/ATM90_Circuit/CLKOUT_1".
+
+Changing component "M2:/5A1041CA/5A220C81" pin "22" net name from "CLKIN_1" to "/ATM90_Circuit/CLKIN_1".
+
+Changing component "M2:/5A1041CA/5A220C81" pin "16" net name from "L1_SAMP" to "/L1_SAMP".
+
+Changing component "M2:/5A1041CA/5A220C81" pin "15" net name from "N" to "GNDA".
+
+Changing component "M2:/5A1041CA/5A220C81" pin "14" net name from "Net-(C19-Pad2)" to "GNDD".
+
+Changing component "M2:/5A1041CA/5A220C81" pin "11" net name from "I1N_1" to "/IN_1".
+
+Changing component "M2:/5A1041CA/5A220C81" pin "10" net name from "I1P_1" to "/IP_1".
+
+Changing component "M2:/5A1041CA/5A220C81" pin "5" net name from "+3.3VA" to "+3V3".
+
+Changing component "M2:/5A1041CA/5A220C81" pin "4" net name from "+3.3VA" to "+3V3".
+
+Changing component "M2:/5A1041CA/5A220C81" pin "3" net name from "+3.3VA" to "+3V3".
+
+Info: Checking netlist component footprint "R1:/5A12DA2B:Capacitors_SMD:C_0805".
+
+Changing component "R1:/5A12DA2B" pin "1" net name from "Net-(J2-Pad1)" to "Net-(J2-Pad2)".
+
+Changing component "R1:/5A12DA2B" pin "2" net name from "Net-(J2-Pad2)" to "Net-(J2-Pad1)".
+
+Info: Checking netlist component footprint "R2:/5A205D25:Capacitors_SMD:C_0805".
+
+Changing component "R2:/5A205D25" pin "1" net name from "Net-(J3-Pad1)" to "Net-(J3-Pad2)".
+
+Changing component "R2:/5A205D25" pin "2" net name from "Net-(J3-Pad2)" to "Net-(J3-Pad1)".
+
+Info: Checking netlist component footprint "R3:/5A1C8053:Capacitors_SMD:C_1206".
+
+Changing component "R3:/5A1C8053" pin "2" net name from "L0" to "/LO".
+
+Info: Checking netlist component footprint "R4:/5A1EAC4B:Capacitors_SMD:C_1206".
+
+Changing component "R4:/5A1EAC4B" pin "2" net name from "L1" to "/L1".
+
+Info: Checking netlist component footprint "R5:/5A1EAA0E:Capacitors_SMD:C_1206".
+
+Info: Checking netlist component footprint "R6:/5A1EAD0D:Capacitors_SMD:C_1206".
+
+Info: Checking netlist component footprint "R7:/5A1EAAC3:Capacitors_SMD:C_1206".
+
+Info: Checking netlist component footprint "R8:/5A1EADB7:Capacitors_SMD:C_1206".
+
+Info: Checking netlist component footprint "R9:/5A1EABAC:Capacitors_SMD:C_1206".
+
+Changing component "R9:/5A1EABAC" pin "1" net name from "L0_SAMP" to "/LO_SAMP".
+
+Info: Checking netlist component footprint "R10:/5A1EAE66:Capacitors_SMD:C_1206".
+
+Changing component "R10:/5A1EAE66" pin "1" net name from "L1_SAMP" to "/L1_SAMP".
+
+Info: Checking netlist component footprint "R11:/5A10E69F:Capacitors_SMD:C_0805".
+
+Changing component "R11:/5A10E69F" pin "2" net name from "L0_SAMP" to "/LO_SAMP".
+
+Info: Checking netlist component footprint "R12:/5A11C444:Capacitors_SMD:C_0805".
+
+Changing component "R12:/5A11C444" pin "1" net name from "GNDA" to "Net-(C2-Pad2)".
+
+Changing component "R12:/5A11C444" pin "2" net name from "L1_SAMP" to "/L1_SAMP".
+
+Info: Checking netlist component footprint "R13:/5A186D61:Capacitors_SMD:C_0805".
+
+Changing component "R13:/5A186D61" pin "2" net name from "GND_MCU" to "GNDD".
+
+Info: Checking netlist component footprint "R24:/5A1041CA/5A20A670:Capacitors_SMD:C_0805".
+
+Changing component "R24:/5A1041CA/5A20A670" pin "2" net name from "3.3V_MCU" to "+3V3".
+
+Info: Checking netlist component footprint "R25:/5A383CC8:Capacitors_SMD:C_0805".
+
+Changing component "R25:/5A383CC8" pin "1" net name from "I1N_0" to "/IP_0".
+
+Changing component "R25:/5A383CC8" pin "2" net name from "Net-(J2-Pad1)" to "Net-(J2-Pad2)".
+
+Info: Checking netlist component footprint "R26:/5A383F0D:Capacitors_SMD:C_0805".
+
+Changing component "R26:/5A383F0D" pin "1" net name from "I1P_0" to "/IN_0".
+
+Changing component "R26:/5A383F0D" pin "2" net name from "Net-(J2-Pad2)" to "Net-(J2-Pad1)".
+
+Info: Checking netlist component footprint "R27:/5A3AEA7D:Capacitors_SMD:C_0805".
+
+Changing component "R27:/5A3AEA7D" pin "1" net name from "I1N_1" to "/IP_1".
+
+Changing component "R27:/5A3AEA7D" pin "2" net name from "Net-(J3-Pad1)" to "Net-(J3-Pad2)".
+
+Info: Checking netlist component footprint "R28:/5A3AEA84:Capacitors_SMD:C_0805".
+
+Changing component "R28:/5A3AEA84" pin "1" net name from "I1P_1" to "/IN_1".
+
+Changing component "R28:/5A3AEA84" pin "2" net name from "Net-(J3-Pad2)" to "Net-(J3-Pad1)".
+
+Info: Checking netlist component footprint "RV1:/5A11BE8A:HappyDayEnergyMonitor:MOV".
+
+Changing component "RV1:/5A11BE8A" pin "2" net name from "L0" to "/LO".
+
+Changing component "RV1:/5A11BE8A" pin "1" net name from "N" to "/N".
+
+Info: Checking netlist component footprint "RV2:/5A11CB55:HappyDayEnergyMonitor:MOV".
+
+Changing component "RV2:/5A11CB55" pin "2" net name from "L1" to "/L1".
+
+Changing component "RV2:/5A11CB55" pin "1" net name from "N" to "/N".
+
+Info: Checking netlist component footprint "TP1:/5A931745:Connectors_TestPoints:Test_Point_Loop_D2.54mm_Drill1.5mm_Beaded".
+
+Changing component "TP1:/5A22A137" value from "3.3V_A" to "GND".
+
+Info: Changing component path "TP1:/5A22A137" to "/5A931745".
+
+Changing component "TP1:/5A931745" pin "1" net name from "3.3V_REG_A" to "GNDD".
+
+Info: Checking netlist component footprint "TP2:/5A93110F:Connectors_TestPoints:Test_Point_Loop_D2.54mm_Drill1.5mm_Beaded".
+
+Changing component "TP2:/5A22A5EB" value from "GNDA" to "3.3V".
+
+Info: Changing component path "TP2:/5A22A5EB" to "/5A93110F".
+
+Changing component "TP2:/5A93110F" pin "1" net name from "GNDA" to "Net-(TP2-Pad1)".
+
+Info: Checking netlist component footprint "TP3:/5A22AA32:Connectors_TestPoints:Test_Point_Loop_D2.54mm_Drill1.5mm_Beaded".
+
+Changing component "TP3:/5A22AA32" pin "1" net name from "L0_SAMP" to "/LO_SAMP".
+
+Info: Checking netlist component footprint "TP4:/5A22AFE3:Connectors_TestPoints:Test_Point_Loop_D2.54mm_Drill1.5mm_Beaded".
+
+Changing component "TP4:/5A22AFE3" pin "1" net name from "L1_SAMP" to "/L1_SAMP".
+
+Info: Checking netlist component footprint "TP6:/5A22B653:Connectors_TestPoints:Test_Point_Loop_D2.54mm_Drill1.5mm_Beaded".
+
+Changing component "TP6:/5A22B653" value from "I1P_0" to "IP_0".
+
+Changing component "TP6:/5A22B653" pin "1" net name from "I1P_0" to "/IP_0".
+
+Info: Checking netlist component footprint "TP7:/5A22B7E2:Connectors_TestPoints:Test_Point_Loop_D2.54mm_Drill1.5mm_Beaded".
+
+Changing component "TP7:/5A22B7E2" value from "I1N_0" to "IN_0".
+
+Changing component "TP7:/5A22B7E2" pin "1" net name from "I1N_0" to "/IN_0".
+
+Info: Checking netlist component footprint "TP8:/5A22E009:Connectors_TestPoints:Test_Point_Loop_D2.54mm_Drill1.5mm_Beaded".
+
+Changing component "TP8:/5A22E009" value from "I1P_1" to "IP_1".
+
+Changing component "TP8:/5A22E009" pin "1" net name from "I1P_1" to "/IP_1".
+
+Info: Checking netlist component footprint "TP9:/5A22F1E1:Connectors_TestPoints:Test_Point_Loop_D2.54mm_Drill1.5mm_Beaded".
+
+Changing component "TP9:/5A22F1E1" value from "I1N_1" to "IN_1".
+
+Changing component "TP9:/5A22F1E1" pin "1" net name from "I1N_1" to "/IN_1".
+
+Info: Checking netlist component footprint "U1:/5A3B0A12:HappyDayEnergyMonitor:RAC03-GA".
+
+Changing component "U1:/5A3B0A12" pin "1" net name from "L0" to "/LO".
+
+Changing component "U1:/5A3B0A12" pin "4" net name from "GND_MCU" to "GNDD".
+
+Changing component "U1:/5A3B0A12" pin "5" net name from "3.3V_MCU" to "+3V3".
+
+Info: Checking netlist component footprint "U4:/5A1041CA/5A21C500:HappyDayEnergyMonitor:ADAFRUIT_FEATHER".
+
+Changing component "U4:/5A1041CA/5A21C500" pin "15" net name from "3.3V_MCU" to "+3V3".
+
+Changing component "U4:/5A1041CA/5A21C500" pin "13" net name from "GND_MCU" to "GNDD".
+
+Changing component "U4:/5A1041CA/5A21C500" pin "6" net name from "SCLK_MCU" to "/ATM90_Circuit/SCLK".
+
+Changing component "U4:/5A1041CA/5A21C500" pin "5" net name from "MOSI_MCU" to "/ATM90_Circuit/MOSI".
+
+Changing component "U4:/5A1041CA/5A21C500" pin "4" net name from "MISO_MCU" to "/ATM90_Circuit/MISO".
+
+Changing component "U4:/5A1041CA/5A21C500" pin "17" net name from "3.3V_MCU" to "+3V3".
+
+Changing component "U4:/5A1041CA/5A21C500" pin "23" net name from "CS0_MCU" to "/ATM90_Circuit/CS0".
+
+Changing component "U4:/5A1041CA/5A21C500" pin "24" net name from "CS1_MCU" to "/ATM90_Circuit/CS1".
+
+Info: Checking netlist component footprint "Y1:/5A1041CA/5A10B8C0:HappyDayEnergyMonitor:Crystal".
+
+Changing component "Y1:/5A1041CA/5A10B8C0" pin "1" net name from "CLKOUT_0" to "/ATM90_Circuit/CLKOUT_0".
+
+Changing component "Y1:/5A1041CA/5A10B8C0" pin "2" net name from "CLKIN_0" to "/ATM90_Circuit/CLKIN_0".
+
+Info: Checking netlist component footprint "Y2:/5A1041CA/5A10EF14:HappyDayEnergyMonitor:Crystal".
+
+Changing component "Y2:/5A1041CA/5A10EF14" pin "1" net name from "CLKOUT_1" to "/ATM90_Circuit/CLKOUT_1".
+
+Changing component "Y2:/5A1041CA/5A10EF14" pin "2" net name from "CLKIN_1" to "/ATM90_Circuit/CLKIN_1".
+
+Removing unused component "C6:/5A1041CA/5A1A1ECF".
+
+Removing unused component "C7:/5A1041CA/5A1A268E".
+
+Removing unused component "L2:/5A1041CA/5A14FB02".
+
+Removing unused component "L3:/5A1041CA/5A187DEF".
+
+Removing unused component "R14:/5A1041CA/5A1A07B7".
+
+Removing unused component "R15:/5A1041CA/5A1A0AAF".
+
+Removing unused component "R16:/5A1041CA/5A1A0B32".
+
+Removing unused component "R17:/5A1041CA/5A1A0BB8".
+
+Removing unused component "R18:/5A1041CA/5A1A0C41".
+
+Removing unused component "R19:/5A1041CA/5A1A156A".
+
+Removing unused component "R20:/5A1041CA/5A1A1631".
+
+Removing unused component "R21:/5A1041CA/5A1A16C5".
+
+Removing unused component "R22:/5A1041CA/5A1A175A".
+
+Removing unused component "R23:/5A1041CA/5A1A17F2".
+
+Removing unused component "TP10:/5A2303DE".
+
+Removing unused component "TP11:/5A230D1F".
+
+Removing unused component "U2:/5A1D75ED".
+
+Warning: Copper zone (net name 'GND_MCU'): net has no pads connected.

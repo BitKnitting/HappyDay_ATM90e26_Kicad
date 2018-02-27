@@ -6,6 +6,12 @@ K audio jack receptable stereo headphones TRRRS connector
 F ~
 $ENDCMP
 #
+$CMP TRS3.5
+D 5-pin (audio) jack receptable (TRRRS connector)
+K audio jack receptable stereo headphones TRRRS connector
+F ~
+$ENDCMP
+#
 $CMP TRS3.5Female
 D 5-pin (audio) jack receptable (TRRRS connector)
 K audio jack receptable stereo headphones TRRRS connector
