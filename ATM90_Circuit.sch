@@ -390,18 +390,6 @@ F 3 "" H 6600 3150 50  0001 C CNN
 	1    6600 3150
 	1    0    0    -1  
 $EndComp
-$Comp
-L R R24
-U 1 1 5A20A670
-P 9550 3350
-F 0 "R24" V 9630 3350 50  0000 C CNN
-F 1 "10K" V 9550 3350 50  0000 C CNN
-F 2 "Capacitors_SMD:C_0805" V 9480 3350 50  0001 C CNN
-F 3 "" H 9550 3350 50  0001 C CNN
-F 4 "R" H 9550 3350 60  0001 C CNN "PN"
-	1    9550 3350
-	-1   0    0    1   
-$EndComp
 Wire Wire Line
 	2100 4500 1950 4500
 Wire Wire Line
@@ -707,11 +695,7 @@ Connection ~ 1650 6150
 Wire Wire Line
 	9150 4700 9150 4500
 Wire Wire Line
-	9550 3050 9550 3200
-Wire Wire Line
 	8350 3600 9450 3600
-Wire Wire Line
-	9550 3600 9550 3500
 $Comp
 L FeatherHuzzah U4
 U 2 1 5A21C500
@@ -975,17 +959,6 @@ Text Label 10150 3450 1    60   ~ 0
 CS1
 Text Label 10050 3450 1    60   ~ 0
 CS0
-$Comp
-L +3.3V #PWR030
-U 1 1 5A92DC7C
-P 9550 3050
-F 0 "#PWR030" H 9550 2900 50  0001 C CNN
-F 1 "+3.3V" H 9550 3190 50  0000 C CNN
-F 2 "" H 9550 3050 50  0001 C CNN
-F 3 "" H 9550 3050 50  0001 C CNN
-	1    9550 3050
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	7250 4850 7550 4850
 $Comp
